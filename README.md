@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-I am Lithika Methsilu Senavirathne. A proud son of Mother Ananda. I am 13 years old
+I am Lithika Methsilu Senavirathne. A proud son of Mother Ananda. I am 13 years old.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
